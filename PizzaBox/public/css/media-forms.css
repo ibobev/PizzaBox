@@ -1,0 +1,15 @@
+@media(max-width:600px){
+    .form_box{
+        width:300px;
+        
+    }
+
+    #input_form{
+        left:10px;
+    }
+
+    .p_style{
+        left:17px;
+    }
+    
+}

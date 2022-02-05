@@ -1,0 +1,39 @@
+@media(max-width:1140px){
+    .details_box{
+        width:80%;
+    }
+}
+
+@media(max-width:570px){
+    .btn_img_select{
+        width:200px;
+    }
+    .input_field{
+        width:100%;
+        height:20px;   
+    }
+
+    .h2_style_admin{
+        font-size:22px;
+    }
+
+    .lbl{
+        font-size:16px;
+        margin-left:10px;
+        text-align: center;
+        font-weight: bold; 
+    }
+
+    .btn_form{
+        height:30px;
+    }
+
+    .options_box{
+        height:30px;
+    }
+
+    .btn_admin{
+        width:70px;
+        font-size:14px;
+    }
+}

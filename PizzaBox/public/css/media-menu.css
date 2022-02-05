@@ -1,0 +1,29 @@
+@media(max-width:600px){
+    .menu_flex_container{
+        width: 300px;
+    }
+
+    .menu_item_img{
+        width: 300px;
+    }
+
+    .form_menu{
+        width:300px;
+    }
+
+    .p_left{
+        font-size:14px;
+    }
+
+    h2{
+        font-size:18px;
+    }
+
+    .exclude{
+        font-size:28px;
+    }
+
+    .btn_add{
+        font-size:16px;
+    }
+}

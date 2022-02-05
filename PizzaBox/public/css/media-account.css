@@ -1,0 +1,100 @@
+@media (max-width:1260px){
+    #account_nav{
+        width:250px;
+    }
+
+    .btn{
+        width:250px;
+    }
+
+    .wrap_acc{
+        width:600px;
+    }
+}
+
+@media (max-width:900px){
+    #account_nav{
+        width:200px;
+
+    }
+
+    .btn{
+        width:200px;
+    }
+
+    .wrap_acc{
+        width:400px;
+    }
+
+    #my_data{
+        width:300px;
+    }
+
+    #acc_details{
+        width:300px;
+    }
+
+    #acc_pass{
+        width:300px;
+    }
+    #acc_address{
+        width:300px;
+    }
+}
+
+@media (max-width:620px){
+    #account_nav{
+        width:400px;
+        padding-bottom:60px;
+
+    }
+    .btn{
+        width:400px;
+    }
+    #flex_account_page{
+        height:auto;
+    }
+
+    .wrap_acc{
+        padding-bottom:20px;
+    }
+
+    #account_nav{
+        margin-bottom:20px;
+    }
+
+    #my_data p{
+        font-size:16px;
+    }
+}
+
+@media (max-width:520px){
+    #account_nav{
+        width:300px;
+        padding-bottom:60px;
+
+    }
+    .btn{
+        width:300px;
+    }
+
+    .wrap_acc{
+        width:300px;
+    }
+
+    #my_data{
+        width:250px;
+    }
+
+    #acc_details{
+        width:250px;
+    }
+
+    #acc_pass{
+        width:250px;
+    }
+    #acc_address{
+        width:250px;
+    }
+
+}

@@ -1,0 +1,32 @@
+/*html{
+    scroll-behavior: smooth;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    font-family: 'Roboto', sans-serif;
+}*/
+
+#header{
+    width: 100%;
+    height: 70px;
+    position: relative;
+    z-index: 1000;
+    background-color: rgba(0,0,0,1);
+    
+}
+
+.style_h1{
+    color: #dd8e15;
+    padding-left: 30px;
+    font-size: 28px;
+    font-family: 'Courgette', cursive;
+    font-weight: lighter;
+    padding-top:20px;
+    margin-top:0;
+}

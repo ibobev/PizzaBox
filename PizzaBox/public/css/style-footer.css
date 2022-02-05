@@ -1,0 +1,49 @@
+#ftr{
+    color:#fff;
+}
+
+#logo_box{
+    background-color: #000;
+    height:auto;
+    border-bottom: 5px solid #dd8e15;
+    
+}
+
+.style_p{
+    text-align: center;
+    font-weight: bold;
+    color: #dd8e15;
+}
+
+#nav_other_users{
+    display:block;
+    position: absolute;
+    text-align: left;
+    font-weight: bold;
+    z-index: 2;
+}
+
+.other_ul{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+
+.a_link_other{
+    text-decoration: none;
+    color:#dd8e15;
+    margin-top:20px;
+    padding-left: 20px;
+}
+
+#ftr_img_style{
+    position:relative;
+	display:block;
+    width:120px;
+    height:auto;
+    top:10px;
+    margin-left: auto;
+  	margin-right: auto;
+}
+
+

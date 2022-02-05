@@ -1,0 +1,24 @@
+#completed_section{
+    min-height: 550px;
+}
+
+.completed_box{
+    padding-top: 5%;
+    margin:auto;
+    text-align: center;
+}
+
+.completed_p{
+    margin-top:50px;
+    font-size:18px;
+}
+
+.completed_img_style{
+    position:relative;
+	display:block;
+    width:220px;
+    height:auto;
+    top:10px;
+    margin-left: auto;
+  	margin-right: auto;
+}
